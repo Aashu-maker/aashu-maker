@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Aashu-maker/aashu-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aashu-maker/propertext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
